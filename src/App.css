@@ -30,7 +30,6 @@ font-family: Georgia;
 .news-image img {
   width: 42rem;
   height: 25rem;
-  max-width: 100%;
 }
 
 .news-title a {
